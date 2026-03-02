@@ -30,5 +30,5 @@
 
 1. **Склонуйте репозиторій:**
 ```bash
-git clone https://github.com/your-username/inventory-system.git
+git clone https://github.com/RomaNigda/inventory-system.git
 cd inventory-system
